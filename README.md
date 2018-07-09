@@ -22,7 +22,7 @@
                       - COVARIANCE, CORELATION, CONDITIONAL PROBABILITY, BAYE'S THEOREM (ONLY OVERALL VIEW)
                       
 
-### day:2 (8 july 2018)
+### day:3 (9 july 2018)
   
  
  **Today's Progress**: Today i looked into linear regression but initially it bit confusing but i could understand what is it purpose but i couldn't fully understand it. today was good and interesting.
