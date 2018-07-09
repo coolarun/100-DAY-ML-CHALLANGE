@@ -11,7 +11,8 @@
                       - PERCENTAIL AND MOMENT ( MEAN, VARIANCE, SKEW, KURTOSIS)
                       - MATPLOT LIB (LINE GRAPH, PIE, BAR, HISTOGRAM)
  
- ### day:2 (8 july 2018)
+
+### day:2 (8 july 2018)
   
  
  **Today's Progress**: Today i listened videos on problity basics covering concepts like covariance, corelation, conditional probability, bayes theroem. but honestly i couldn't get my head around those concepts, they look simple at first then it becomes complicated, i have to practice those concepts well. today i was little tired to do this but some how i managed to allocate 1 hour time for this.
@@ -20,4 +21,14 @@
                       
                       - COVARIANCE, CORELATION, CONDITIONAL PROBABILITY, BAYE'S THEOREM (ONLY OVERALL VIEW)
                       
+
+### day:2 (8 july 2018)
+  
+ 
+ **Today's Progress**: Today i looked into linear regression but initially it bit confusing but i could understand what is it purpose but i couldn't fully understand it. today was good and interesting.
+
+ **Things learned**: 
+                      
+                      - LINEAR REGRESSION (https://www.youtube.com/channel/UCFrjdcImgcQVyFbK04MBEhA)
+                               
                       
