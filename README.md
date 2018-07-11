@@ -30,5 +30,24 @@
  **Things learned**: 
                       
                       - LINEAR REGRESSION (https://www.youtube.com/channel/UCFrjdcImgcQVyFbK04MBEhA)
+ 
+ ### day:4 (10 july 2018)
+  
+ 
+ **Today's Progress**: Today is little boring day, i hardly found time to look into couple of video tutorial not able to do any coding. today i watched tutorial on statistics from youtube specially in linear regression and  what is normal distributiion, i feel i getting better in some concepts probability but i think this is not enough.
+
+ **Things learned**: 
+                      
+                      - LINEAR REGRESSION
+                      
+ 
+ ### day:5 (11 july 2018)
+  
+ 
+ **Today's Progress**: Today, same like yesterday i couldn't code today but i'm going to watch some video tutorials. i don't want to miss the continuity by any chance.
+
+ **Things learned**: 
+                      
+                      - UPDATE COMMING SOON
                                
                       
